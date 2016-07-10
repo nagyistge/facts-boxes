@@ -1,2 +1,2 @@
-# facts-boxes
+# Facts Boxes
 Facts boxes for medical decisions
